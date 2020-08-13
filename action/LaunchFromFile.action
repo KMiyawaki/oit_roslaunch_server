@@ -1,0 +1,10 @@
+# Define the goal
+string path # Target launch file path
+bool need_to_launch # Set true if need to launch, false to terminate.
+---
+# Define the goal
+bool succeeded
+string message
+---
+# Define a feedback message
+# Nothing
